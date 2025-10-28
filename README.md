@@ -50,6 +50,22 @@ Ce dernier fait également appel à une base de données qui contient les inform
 Le volet statistique n'est pas fonctionnel mais nous avons mis le répertoire dans "Volet statistique" pour que vous puissiez voir le code qui y est fourni. 
 Ce dernier devait permettre de voir différentes statistiques ainsi que de générer un pdf récapitulatif pour les missions.
 
-### Captures d'écran
+Le nom de notre application est FireSpirit.
 
-A compléter
+## Captures d'écran
+
+#### Tableau de bord :
+<img src="ScreenShots/TableauDeBord.png" width="700" alt="Tableau de bord">
+
+#### Création d'une nouvelle mission :
+<img src="ScreenShots/NouvelleMission.png" width="700" alt="Nouvelle mission">
+
+#### Gestion des engins :
+<img src="ScreenShots/GestionEngin.png" width="700" alt="Gestion engins">
+
+#### Gestion du personnel :
+<img src="ScreenShots/GestionPersonnel.png" width="700" alt="Gestion personnel">
+
+
+
+
