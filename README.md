@@ -25,7 +25,7 @@ git config --global user.email "[email]"
 ```sh
 git clone https://github.com/Jean-GIESE/Application-pompier.git
 ```
-Nous avons utilisé la version Winforms C# avec Visual Studio. Si vous n'avez pas WinForms sur votre ordinateur, installez-le. 
+Nous avons utilisé la version Winforms C# avec Visual Studio. Si vous n'avez pas WinForms sur votre ordinateur, installez-le via le [site web](https://help.syncfusion.com/windowsforms/visual-studio-integration/download-and-installation) (l'application a été fait sur Visual Studio 2022). 
 
 ⚠️Attention​ ! Le projet ne fonctionne que sur Windows étant donné que l'interface graphique utilisée est WinForms.
 
